@@ -10,6 +10,7 @@
 	<h2>GIT</h2>
 	<fieldset>
 		<legend>GIT수업</legend>
+		<h4>재밌네</h4>
 	</fieldset>
 </body>
 </html>
