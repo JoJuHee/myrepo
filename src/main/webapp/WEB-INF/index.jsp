@@ -12,5 +12,8 @@
 		<legend>GIT수업</legend>
 		<h4>재밌네</h4>
 	</fieldset>
+	
+	<h2>제목</h2>
+
 </body>
 </html>
